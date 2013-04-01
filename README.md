@@ -9,7 +9,7 @@ Bginner's Guide to Mac OS X
 **Format:** Ebook - Electronic book text  
 **Primary Subject:** Book - COMPUTER SOFTWARE  
 
-(Title) is an independant (publication) and has not been authorised, sponsored, or otherwise approved by Apple Inc.
+_(Title)_ is an independant _(publication)_ and has not been authorised, sponsored, or otherwise approved by Apple Inc.
 
 _copyright notice of Apple goes here_
 
