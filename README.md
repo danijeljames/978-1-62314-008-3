@@ -1,7 +1,7 @@
 Bginner's Guide to Mac OS X
 ===========================
 
-*Author:* Danijel James  
+**Author:** Danijel James  
 *Publication Date*: TBA  
 *ISBN:* 978-1-62314-008-3  
 *Price:* $0.00  
