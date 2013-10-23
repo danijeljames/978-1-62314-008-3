@@ -1,5 +1,5 @@
-Bginner's Guide to Mac OS X
-===========================
+978-1-62314-008-3
+=================
 
 **Author:** Danijel James  
 **Publication Date**: TBA  
@@ -9,7 +9,7 @@ Bginner's Guide to Mac OS X
 **Format:** Ebook - Electronic book text  
 **Primary Subject:** Book - COMPUTER SOFTWARE  
 
-_(Title)_ is an independant _(publication)_ and has not been authorised, sponsored, or otherwise approved by Apple Inc.
+_978-1-62314-008-3_ is an independant _(publication)_ and has not been authorised, sponsored, or otherwise approved by Apple Inc.
 
 _copyright notice of Apple goes here_
 
