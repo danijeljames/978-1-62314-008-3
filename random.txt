@@ -1,0 +1,291 @@
+Title: Beginner's Guide to Mac OS X, iTunes Edition
+Author: Danijel James
+Publication Date: 2013-04-09
+ISBN: 978-1-62314-008-3
+Price: $0.00
+Target Audience: Adult Education
+Format: Ebook - Electronic book text
+Primary Subject: Book - COMPUTER SOFTWARE
+
+(Title) is an independent (publication) and has not been authorized, sponsored, or otherwise approved by Apple Inc.
+
+http://www.udemy.com/learning-apple-mac-os-x-mountain-lion-108/?dtcode=t2659ltk#table-of-contents
+
+http://www.apple.com/legal/trademark/guidelinesfor3rdparties.html
+
+Section 1 - Mountain Lion
+0101 - What Is New
+Moutain Lion, also known as OS X 10.8 (current version is 10.8.2 at time of writing), is the ninth major version of OS X, Apple's desktop and server operating system. It builds upon new features that were introduced in OS X 10.7 Lion
+
+0102 - Switching From Windows
+-covering subtle differences
+-boot screen doesn't display BIOS
+-OS X is more stable
+Switching from any operating system to another is a daunting task in any person's mind, especially if you've grown used to one system over a long time - or even your life! However moving from Windows to OS X can be achieved easily and now that Apple has moved from PowerPC-based to Intel-based systems, it's opened a window for developers to migrate their applications across from Windows to OS X, too!
+
+In late 2006 (if memory serves me correct) I bought my first Apple computer system. This consisted of a USB mouse and keyboard, the lovely 30-inch DVI Cinema Display and 
+
+One question, no, two questions I get on nearly a daily basis from Windows and Apple users alike are,
+
+“Isn't it hard to learn Mac?”
+“What virus protection do I need?"
+
+I always say that when I bought my first Apple computer, I nearly smashed it against the wall within the first 6 hours of bringing it home. Frustrated at myself I walked away and asked myself “What am I trying to do?” It was then that it daunted on me that up until that point the one application missing was the equivalent of Microsoft Paint from my Mac. Everything else was there. The same thing, just simpler with a sexier look. So all that frustration was over not having the Paint program. To solve my dilemma, I downloaded GIMP and away I went.
+
+Virus protection is a term I hear a lot, but the short and simple answer is that OS X doesn't need “virus protection”. What a customer means is what should they use to help protect themselves whilst on the Internet. Because let's face it, the majority of issues these days comes from malware, adware, spyware. The 3 major “warez” that you don't want. The fourth (not bad, just annoying) is bloatware (I sometimes also say “crapware”).
+
+OS X, built on the power of UNIX, is a safe operating system. But any computer, is just that, a computer, and to quote Michael W. Lucas;
+
+//quote
+“... has many integrated security features, but people frequently assume that these features handle security for everything that can be installed on the computer. A moment's thought will show that this really isn't possible. No operating system can protect itself from the computer operator's mistakes. An OS can protect itself from problems in installed software to a limited extent, but ultimately the responsibility for security is in the hands of the -user-”
+
+//user has replaced administrator
+//-exc2 Absolute OpenBSD: UNIX for the Practical Paranoid by Michael W. Lucas ISBN:1886411999
+No Starch Press © 2003, page 30
+
+That being said, each operating system is always going to be subjected to new threats everyday, and for the everyday user that is the 3 Warez. Don't let that put you off though, because if you're switching from Windows, then for the longest time you've been subjecting yourself even more so to these threats until you bought your first Mac.
+
+
+As for security on OS X Norton, Avast!, Trend, McAfee, NOD32 and AVG are my recommendations in no particular order. When I recommend security to new users switching from Windows, it's to protect you when you browse. If you're security settings have been changed from their default and you install an application that didn't get the AppStore tick of approval, a risk is always identified as a problem. When browsing, the above mentions program's van deter you from browsing to a website that is suggested could contain malicious code that may track your Internet usage, or ask you to pay for something because 1627 “threats” have been detected on your system.
+
+And even if you we're to bring a virus over to OS X, especially when you transferred your files over from Windows, rest assured it probably won't do any harm to your system. Viruses are built on Unix-like machines to be deployed to Windows user systems. #LOL
+
+
+
+6498 9071 3864
+AUTH Code: 08162-1360933438650-624303-81
+
+
+Section 2 - Installation
+0201 - Before You Install Or Upgrade
+0202 - Downloading And Using The Installer
+-download from Apple App Store (insert icon)
+0203 - Setup Assistant
+0204 - Login Window
+0205 - Create An iCloud Account
+0206 - Migration Assistant
+
+Section 3 - Mac Ins And Outs
+0301 - A Look At Your Computer
+0302 - Customising Inputs
+0303 - Dictation, Speech & Audio
+0304 - Power
+0305 - Displays
+0306 - Language And Regions
+
+Section 4 - Finder
+0401 - Desktop, Dock & Menu Bar
+0402 - Finder Windows
+0403 - Customsing the Desktop And Screen Savers
+0404 - Home Folder
+0405 - File Systems
+0406 - Smart Folders
+0407 - External Media
+0408 - Working With Burnable Media
+
+Section 5 - File Management
+0501 - iCloud and Local Files
+0502 - Savind, Autosaving and Versions
+0503 - Locked Files and Stationary
+0504 - Working With Trash
+0505 - Aliases and Copies
+
+Section 6 - OS X Features
+0601 - Spotlight
+0602 - Quick Look
+0603 - Dashboard
+0604 - Launchpad
+0605 - Mission Control
+
+Section 7 - Installing Software
+0701 - Mac App Store
+I propose that when Apple decided to introduce the Mac AppStore, they were probably building upon the success of the iTunes Store for iOS. But it's also come to my understanding that even the iOS version of the AppStore had to come from somewhere. An idea like this just doesn't spring up out of nowhere, does it? For a long time, MacPorts has been around before either of these AppStore availability. But who can say? 
+
+Mac AppStore is a centralised repository of applications  (paid and free) that have been submitted to Apple for investigation, testing and checking to be distributed to their users. Once the engineers, testers and everyone else have prodded the application 'til it can be prodded no more and it meets the bar, it will be finally made available to the public.
+
+Because of the rigorous testing that applications go through by the AppStore testers, we can assume that there is no malicious intent, with high probability, baked into the program and it does what it says it will. We also know that the application has also passed Apple's stringent guidelines on appearance, operation, compatibility and safety.
+
+So in short, I don't guarantee, but I do say that of all applications available for OS X, these are the safest to install.
+0702 - Drag And Drop Apps
+0703 - Package Installs
+0704 - Software Updates
+
+Section 8 - Users
+0801 - Creating New Users
+0802 - Login Options
+0803 - The Guest Account
+0804 - Parental Controls
+0805 - Permissions
+
+Section 9 - Internet and Networking
+0901 - How The Internet Works
+0902 - Working With Wireless Networks
+0903 - Working With Wired Networks
+0904 - More Networking Options
+0905 - Locations
+
+Section 10 - Safari
+1001 - Browsing The Internet
+1002 - Working With Bookmarks
+1003 - Working With Tabs
+1004 - Preferences and Advanced Options
+
+Section 11 - Working
+1101 - Reminders and Notifications
+1102 - Calendars
+1103 - Stickies and Notes
+1104 - Dictionary
+1105 - Fonts and Font Book
+1106 - Using Text Edit
+1107 - Grammar and Spell Check
+
+Section 12 - Collaboration
+1201 - Setting Up Accounts
+1202 - Using Contact
+1203 - Using Mail
+1204 - Mail Advanced
+1205 - Using Messages
+1206 - Share Widget
+
+Section 13 - Photos
+1301 - Importing Photos With Image Capture
+1302 - Editing In Preview
+1303 - Importing Photos With iPhoto
+1304 - Editing In iPhoto
+1305 - Sharing Photos From iPhoto
+
+Section 14 - Movies
+1401 - Importing Movies From Finder And Image Capture
+1402 - Viewing And Editing With Quick Time Player
+1403 - Importing Movies With iMovie
+1404 - Editing Basics With iMovie
+1405 - Sharing Movies From iMovie
+
+Section 15 - Music
+1501 - Importing Audio Into iTunes
+1502 - Organising With iTunes
+1503 - Creating Music In GarageBand
+1504 - Creating Ringtones In GarageBand
+1505 - Sharing Music From GarageBand
+
+Section 16 - Print, Scan and More
+1602 - Creating PDFs
+1602 - Setting Up Local Printers
+1603 - Setting Up Network And Other Printers
+1604 - Advanced Printer Options
+1605 - Printing
+1606 - Scanning
+1607 - Screen Captures
+
+Section 17 - Services
+1701 - Screen Sharing And Remote Viewing
+1702 - Sharing Your Files
+1703 - Connecting To Network Shares
+1704 - Sharing Files With AirDrop
+1705 - Sharing Your Internet Connection
+1706 - Setting Up Bluetooth Devices
+1707 - Sharing Files Over Bluetooth
+
+Section 18 - Security
+1801 - Gatekeeper And General Security
+1802 - Firewalls And Application Permissions
+1803 - Key Chains
+1804 - Securing Documents With FileVault 2
+
+Section 19 - Universal Access
+1901 - Assistance With Seeing
+1902 - Other Assistance
+1903 - Voice Over
+
+Section 20 - Windows On Your Mac
+2001 - What Method?
+2002 - Boot Camp
+2003 - Parallels
+2004 - VMware Fusion
+2005 - VirtualBox
+
+Section 21 - Power Users
+2101 - Keyboard Shortcuts
+2102 - Automator
+2103 - Changing Icons
+2104 - Cool Tricks
+2105 - Command Line
+
+Section 22 - Troubleshooting
+2201 - System Information
+2202 - Console
+2203 - Help
+2204 - Force Quit and Activity Monitor
+2205 - Recovery HD
+2206 - Disk Utility
+2207 - Network Utility
+2208 - Quick Fixes
+2209 - Fixing Preferences
+
+Terminology and Migrating
+- Introduction
+- Basic Terminology
+- Migrating from Windows
+
+Getting Around
+- Using Finder and Finder Windows
+- The Menu Bar
+- Using the Dock
+- OS X Folder Hierachy
+
+Setting Up Your Mac
+- System Preferences
+- Desktop Pictures and Screen Savers
+- Printing and Scanning
+- Mail, Contacts and Calendars
+- Social Networking
+- iCloud
+
+-- Learn how to Set Up your Mac
+-- Learn how to Back Up your Mac
+-- Learn how to Install and Delete Apps
+-- Tips for Migrating from Windows
+
+
+I always like to know what people are trying to achieve before I answer their question. So running Windows on your Mac can be for any number if reasons. I'll be tackling 4 of these methods, of which I utilise 3.
+
+Currently as I write the pages of this book I also attend TAFE, or as the American terminology refers to it, Community College. Due to restrictions on licensing and costs, the real benefits of me using the third method of loading Windows on my Mac is because it fits in with my course requirements and it matches what the remainder of the class is using. 
+
+Discussing the availability of Windows on Mac will lever pros against cons for each option and so I'd rather explain scenarios which could help you decide.
+
+Situation: Jane recently broke up with Windows and is now started her long term relationship with OS X. But Jane has a dependency on Corel Draw 6 for her work as a graphic designer and needs to use the 64-bit edition. She doesn't want to limited access to the system resources in her new Mac and she doesn't use any other applications when she's working. She is happy to have a minimal Windows XP or Windows 7 64-bit installation. Maybe just 1 other application to email her work files to a colleague or needs to login to the work corporate network to upload the work files. 
+
+abc956d896
+
+2002 - Boot Camp
+2003 - Parallels
+2004 - VMWare Fusion
+2005 - VirtualBox
+
+Section 21 - Power Users
+2101 - Keyboard Shortcuts
+2102 - Automator
+2103 - Changing Icons
+2104 - Cool Tricks
+2105 - Command Line
+
+Section 22 - Troubleshooting
+2201 - System Information
+2202 - Console
+2203 - Help
+2204 - Force Quit And Activity Monitor
+2205 - Recovery HD
+2206 - Disk Utility
+2207 - Network Utility
+2208 - Quick Fixes
+2209 - Fixing Preferences
+
+Section 23 - Misc
+2301 - Terms
+Some terms may come up from time to time when you read about or use OS X after getting through this book. Or you've skipped to this section just so that you can learn the definition (or hope to) of a word that has been puzzling you. Generally I'd say “Google it” but there are going to be times when even I have relied on answers from an actual person in a forum rather than Google showing me results. 
+daemon - an always-running system-level task (excerpt 1)
+
+Section 24 - Conclusion
+2401 - Good Bye
+
+Exc1 “Learning Unix for OS X, by Dave Taylor. Copyright 2012 Dave Taylor, 978-1-4493-3231-0.”, page 3, chap 1
